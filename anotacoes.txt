@@ -1,0 +1,3 @@
+- botar mensagem de sucesso ao inserir msc
+- ajax nas curtidas
+- ajax no editar perfil
